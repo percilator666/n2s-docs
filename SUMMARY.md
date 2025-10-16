@@ -46,12 +46,21 @@
 
 ## 👷 Jobs
 
-* [Page 5](jobs/page-5.md)
+* [🐝 Beekeeping](jobs/beekeeping.md)
+* [📦 Delivery Job](jobs/delivery-job.md)
+* [🧑‍🌾 Farmer Job](jobs/farmer-job.md)
+* [♻️ Sanitation Job](jobs/sanitation-job.md)
+* [🪨 Miner Job](jobs/miner-job.md)
 
 ## 🚨 Heists / Robberies
 
-* [Page 6](heists-robberies/page-6.md)
+* [☠️ Heists](heists-robberies/heists/README.md)
+  * [🚛 Bobcat](heists-robberies/heists/bobcat.md)
+  * [🛥️ Tugboat](heists-robberies/heists/tugboat.md)
+* [💥 Robberies](heists-robberies/robberies/README.md)
+  * [🏦 Fleeca Bank](heists-robberies/robberies/fleeca-bank.md)
+  * [💎 Vangelico](heists-robberies/robberies/vangelico.md)
 
 ## 🏘️ Housing
 
-* [Page 7](housing/page-7.md)
+* [📘 Introduction](housing/introduction.md)

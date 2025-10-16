@@ -12,6 +12,7 @@
 * [🤍 Connection](getting-started/connection.md)
 * [FAQ](getting-started/faq.md)
 * [🎮 Controls/Commands](getting-started/controls-commands.md)
+* [🤗 RP Terms](getting-started/rp-terms.md)
 
 ## 📚 Rules
 

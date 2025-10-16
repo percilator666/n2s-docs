@@ -13,6 +13,12 @@
 * [FAQ](getting-started/faq.md)
 * [🎮 Controls/Commands](getting-started/controls-commands.md)
 * [🤗 RP Terms](getting-started/rp-terms.md)
+* [🎤 Voice Output](getting-started/voice-output.md)
+* [💻 Username](getting-started/username.md)
+* [⏹️ Inventory System](getting-started/inventory-system.md)
+* [🧍 Character Creation](getting-started/character-creation.md)
+* [🚗 Vehicles](getting-started/vehicles.md)
+* [🔫 Weapons](getting-started/weapons.md)
 
 ## 📚 Rules
 
